@@ -1,4 +1,7 @@
 # Movie-Suggestor-MySQL-Java
+
+Spring 2018
+
 A movie recommendation system using the top 5000 movie data from IMDB: 
 https://www.kaggle.com/tmdb/tmdb-movie-metadata/data
 
